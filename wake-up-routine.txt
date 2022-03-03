@@ -1,0 +1,18 @@
+INICIO
+1 - abrir olhos
+2 - observar a claridade do quarto
+3 - Se alguma houver alguma claridade
+	3.1 conferir horário no relógio
+4 - lembrar qual dia da semana está
+5 - Se dia útil e horário >= 6am
+	5.1 - levantar da cama
+	5.2 - colocar óculos
+	5.3 - ativar rotina PrepararCafeEVaTrabalhar
+6 - Se dia útil e horário < 6am
+	6.1 - checar alarme
+	6.1 - fechar os olhos
+	6.2 - voltar a dormir
+7 - Senão
+	7.1 - jogar alerme pela janela
+	7.2 - ativar rotina acordarQuandoTiverVontade
+FIM	
